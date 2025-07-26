@@ -1,0 +1,6 @@
+https://www.linkedin.com/oauth/v2/authorization?
+client_id=77lnf45bn93891
+redirect_uri=http://127.0.0.1:8000/accounts/oidc/linkedin/login/callback/
+scope=openid+email+profile
+response_type=code
+state=THXS6RIL6XnLr18P
